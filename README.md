@@ -49,9 +49,8 @@ I’m a data/MIS analyst with experience in Excel-based reporting, automation, a
 ## 📬 Contact
 
 Feel free to connect or reach out:
-- LinkedIn: [Your LinkedIn URL]
-- Email: [Your Email ID]
-
+LinkedIn: https://www.linkedin.com/in/rajeev-selvam-7a6538325/
+Email: rajeevjammy@gmail.com
 ---
 
 Thanks for visiting!
